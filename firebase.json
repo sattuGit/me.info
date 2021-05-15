@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "myCVPubilc",
+    "public": "public",
     "ignore": [
       "firebase.json",
       "**/.*",
